@@ -25,4 +25,4 @@ you can use another bearing with 13mm diameter
 
 ## Rotate
 
-I did and rotate platform for front wheels, but my dog can`t use them. If you need it write me letter.
+I did and rotate platform for front wheels, but my dog can`t use them. If you need it let me know.
