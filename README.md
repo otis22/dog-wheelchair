@@ -18,6 +18,8 @@ For frame: 8mm alu tube. For my dog I use 2m tube.
 ## Bearing
 
 I use:
+
 U grooved ball bearing 604uu - 8 peieces
+
 you can use another bearing with 13mm diameter
 
