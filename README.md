@@ -23,3 +23,6 @@ U grooved ball bearing 604uu - 8 pieces
 
 you can use another bearing with 13mm diameter
 
+## Rotate
+
+I did and rotate platform for front wheels, but my dog can`t use them. If you need it write me letter.
