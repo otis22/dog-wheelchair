@@ -4,7 +4,7 @@ Flexible size dog wheelchair for small dog(less then 3kg).
 
 Print all details from /wheelchair-stl
 
-corner_holder_8.stl - 8 need parts
+corner_holder_8.stl - "8" means need 8 pieces
 
 For frame: 8mm alu tube. For my dog I use 2m tube. 
 
