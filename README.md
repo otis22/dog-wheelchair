@@ -4,7 +4,7 @@ Flexible size dog wheelchair for small dog(less then 3kg).
 
 Print all details from /wheelchair-stl
 
-corner_holder_8.stl - 8 need parts
+corner_holder_8.stl - "8" means need 8 pieces
 
 For frame: 8mm alu tube. For my dog I use 2m tube. 
 
@@ -18,6 +18,15 @@ For frame: 8mm alu tube. For my dog I use 2m tube.
 ## Bearing
 
 I use:
-U grooved ball bearing 604uu - 8 peieces
+
+U grooved ball bearing 604uu - 8 pieces
+
 you can use another bearing with 13mm diameter
 
+## Rotate
+
+I did and rotate platform for front wheels, but my dog can`t use them. If you need it let me know.
+
+## Thingeverse
+
+https://www.thingiverse.com/thing:4326903
